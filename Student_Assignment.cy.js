@@ -72,6 +72,6 @@ it('Make Payment - Order Detail page', () => {
   cy.get('[name=url_link]').select('7', { force: true });
 
 })
-
+d
 
 })
